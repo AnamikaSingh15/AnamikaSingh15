@@ -17,3 +17,5 @@ https://anamikaSingh15.github.io
 
 🔗 LeetCode:
 https://leetcode.com/
+
+![snake gif](https://github.com/AnamikaSingh15/AnamikaSingh15/blob/output/github-contribution-grid-snake.svg)
