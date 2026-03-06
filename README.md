@@ -29,15 +29,10 @@ https://leetcode.com/
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnamikaSingh15&theme=tokyo-night)
 
 ---
+## 📊 GitHub Stats
 
-<h2 align="center">📊 GitHub Stats</h2>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-</p>
+## 💻 Most Used Languages
 
-<h2 align="center">💻 Most Used Languages</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)>
