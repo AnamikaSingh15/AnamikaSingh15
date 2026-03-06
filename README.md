@@ -1,24 +1,19 @@
-# Anamika Singh
+# Hi, I'm Anamika Singh
 
-I am a 3rd year Computer Science Engineering student.
+🎓 3rd Year Computer Science Engineering Student  
 
-Currently focusing on:
-- Data Structures and Algorithms  
-- Machine Learning basics  
-- JAVA and backend concepts  
+💻 Skills:
+- Java
+- Python
+- Data Structures and Algorithms
+- Machine Learning
 
-I use this GitHub account to upload:
-- Practice problems  
-- Lab work  
-- Small projects  
-- Learning experiments  
+📂 Projects:
+- Burnout Prediction ML Project
+- Hostel Management System
 
----
+🔗 Portfolio:
+https://anamikaSingh15.github.io
 
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnamikaSingh15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnamikaSingh15&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaSingh15&layout=compact)
+🔗 LeetCode:
+https://leetcode.com/
