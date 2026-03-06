@@ -21,9 +21,6 @@ https://leetcode.com/
 ![snake gif](https://github.com/AnamikaSingh15/AnamikaSingh15/blob/output/github-contribution-grid-snake.svg)
 
 
-## 📊 GitHub Stats
-
-![Anamika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnamikaSingh15&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -33,7 +30,14 @@ https://leetcode.com/
 
 ---
 
-## 💻 Most Used Languages
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaSingh15&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
