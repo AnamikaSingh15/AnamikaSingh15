@@ -29,3 +29,6 @@ https://leetcode.com/
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnamikaSingh15&theme=tokyo-night)
 
 ---
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
