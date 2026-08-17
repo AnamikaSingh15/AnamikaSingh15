@@ -1,6 +1,6 @@
 # Hi, I'm Anamika Singh
 
-🎓 3rd Year Computer Science Engineering Student  
+🎓 4rd Year Computer Science Engineering Student  
 
 💻 Skills:
 - Java
